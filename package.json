@@ -1,0 +1,27 @@
+{
+  "name": "electronapp",
+  "productName": "My First Electron App",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Mark Rone",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  },
+  "dependencies": {
+    "electron": "^1.7.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr0165061/ElectronTaskApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mr0165061/ElectronTaskApp/issues"
+  },
+  "homepage": "https://github.com/mr0165061/ElectronTaskApp#readme",
+  "description": ""
+}
